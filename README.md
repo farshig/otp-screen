@@ -1,6 +1,6 @@
 # testapp
 
-This is otp scrren flutter app
+This is coustom otp scrren flutter app
 
 have a good day........
 
